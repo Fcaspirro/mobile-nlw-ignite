@@ -93,6 +93,7 @@ Implementation of login screen with user validation via Discord </em>
 
  <div align="center">
     <img width="235px"  alt="Login Discord" title="demo" src="/assets/github/discord-sign-in.jpeg"/> 
+ </div>
 
 ---
 
