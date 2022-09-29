@@ -19,7 +19,7 @@
 ---
   
 <h2 align="center"> 
-  <b>🎞 Demonstração | <i>Demo</i>
+  <b>📷 Fotos | <i>Pictures</i>
 </h2> 
 
  <div align="center">
@@ -88,7 +88,7 @@ Implementation of login screen with user validation via Discord </em>
 ---
 
 <h2 align="center"> 
-  <b>🎞 Demonstração | <i>Demo</i>
+  <b>📷 Foto | <i>Picture</i>
 </h2> 
 
  <div align="center">
