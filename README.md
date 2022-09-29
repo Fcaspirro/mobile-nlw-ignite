@@ -215,6 +215,7 @@ Instruções para visualização da aplicação no seu dispositivo móvel:
   Read the QRCode from Terminal with your emulator or cell phone to open the application
 ```
 
+---
  
 <h4 align="center">
 Made by: Fabio Caspirro 😄 <a href="mailto:fabio_caspirro@hotmail.com">Entre em contato | <i>Contact</i></a>
