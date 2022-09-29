@@ -23,10 +23,10 @@
 </h2> 
 
  <div align="center">
-    <img width="235px"  alt="Splash Art" title="demo" src="/assets/github/splash-art.jpeg"/> 
-    <img width="235px"  alt="Tela Inicial" title="demo" src="/assets/github/home.jpeg"/> 
-    <img width="235px"  alt="Anúncios" title="demo" src="/assets/github/ads.jpeg"/> 
-    <img width="235px"  alt="Modal" title="demo" src="/assets/github/modal.jpeg"/>    
+    <img width="245px"  alt="Splash Art" title="demo" src="/assets/github/splash-art.jpeg"/> 
+    <img width="245px"  alt="Tela Inicial" title="demo" src="/assets/github/home.jpeg"/> 
+    <img width="245px"  alt="Anúncios" title="demo" src="/assets/github/ads.jpeg"/> 
+    <img width="245px"  alt="Modal" title="demo" src="/assets/github/modal.jpeg"/>    
 </div>
   
 ---
@@ -92,7 +92,7 @@ Implementation of login screen with user validation via Discord </em>
 </h2> 
 
  <div align="center">
-    <img width="235px"  alt="Login Discord" title="demo" src="/assets/github/discord-sign-in.jpeg"/> 
+    <img width="245px"  alt="Login Discord" title="demo" src="/assets/github/login.jpg"/> 
  </div>
 
 ---
@@ -110,7 +110,7 @@ Projeto disponibilizado no figma:
   </h6>
 </em>
 
-- [FIGMA](https://www.figma.com/community/file/1150897317533332617)
+» [FIGMA](https://www.figma.com/community/file/1150897317533332617)
 
 <br>
 
