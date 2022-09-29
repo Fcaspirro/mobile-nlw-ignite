@@ -23,10 +23,10 @@
 </h2> 
 
  <div align="center">
-    <img width="245px"  alt="Splash Art" title="demo" src="/assets/github/splash-art.jpeg"/> 
-    <img width="245px"  alt="Tela Inicial" title="demo" src="/assets/github/home.jpeg"/> 
-    <img width="245px"  alt="Anúncios" title="demo" src="/assets/github/ads.jpeg"/> 
-    <img width="245px"  alt="Modal" title="demo" src="/assets/github/modal.jpeg"/>    
+    <img width="225px"  alt="Splash Art" title="demo" src="/assets/splash.png"/> 
+    <img width="225px"  alt="Tela Inicial" title="demo" src="/assets/github/home.jpeg"/> 
+    <img width="225px"  alt="Anúncios" title="demo" src="/assets/github/ads.jpeg"/> 
+    <img width="225px"  alt="Modal" title="demo" src="/assets/github/modal.jpeg"/>    
 </div>
   
 ---
@@ -92,7 +92,7 @@ Implementation of login screen with user validation via Discord </em>
 </h2> 
 
  <div align="center">
-    <img width="245px"  alt="Login Discord" title="demo" src="/assets/github/login.jpg"/> 
+    <img width="245px"  alt="Login Discord" title="demo" src="/assets/github/login.JPG"/> 
  </div>
 
 ---
